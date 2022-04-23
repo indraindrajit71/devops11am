@@ -1,4 +1,4 @@
-/* This is a very new simple Java program. 
+/* This is a very new stuff in  simple Java program. 
    FileName : "HelloWorld.java". */
 class HelloWorld 
 { 
